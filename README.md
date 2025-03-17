@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/59ca3cc7-34c1-4753-b1f3-b1c3e5bc2805)Collecting workspace information# Alarm Clock App
+
 
 ## Overview
 A simple Android application that allows users to set alarms with a modern, intuitive interface. This project demonstrates Android development using Jetpack Compose, Material 3 design principles, and system integration with the device's alarm functionality.
@@ -10,9 +10,7 @@ A simple Android application that allows users to set alarms with a modern, intu
 - Clean, user-friendly design with a blue color scheme
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/f05c449d-2a2c-4180-9277-83107a943e9f)
-
-![image](https://github.com/user-attachments/assets/aa35de18-54f5-4d9c-8553-26cca846b289)
+![image](https://github.com/user-attachments/assets/f05c449d-2a2c-4180-9277-83107a943e9f)     ![image](https://github.com/user-attachments/assets/aa35de18-54f5-4d9c-8553-26cca846b289)
 
 
 ## Technologies Used
